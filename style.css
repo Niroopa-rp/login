@@ -1,0 +1,26 @@
+.login{
+    display: grid;
+    
+}
+form{
+    display:block;
+    align-items: center;
+    background-color:white;
+    padding-left: 4cm;
+    padding-right: 4cm;
+    margin: auto;
+    border: solid rgb(138, 99, 209);
+   height: 300px;
+   padding-top: 3cm;
+   font-size: larger;
+   border-radius: 2px;
+}
+label{
+    width: 100%;
+    display: inline-block;
+}
+.button{
+    width: 100%;
+    background-color:rgb(138, 99, 209);
+    color: white;
+}
